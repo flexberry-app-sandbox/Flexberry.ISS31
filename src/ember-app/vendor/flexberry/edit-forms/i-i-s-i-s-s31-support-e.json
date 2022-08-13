@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Form",
+      "projection": "FormL",
+      "detailModelName": null
+    },
+    {
+      "master": "investment",
+      "displayAttributeName": "name",
+      "required": true,
+      "relationName": "ListInv.Investment",
+      "projection": "InvestmentL",
+      "detailModelName": "i-i-s-i-s-s31-list-inv"
+    },
+    {
+      "master": "size",
+      "displayAttributeName": "name",
+      "required": true,
+      "relationName": "ListSize.Size",
+      "projection": "SizeL",
+      "detailModelName": "i-i-s-i-s-s31-list-size"
+    }
+  ],
+  "external": false,
+  "caption": "Support",
+  "name": "IISISS31SupportE",
+  "className": "SupportE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s31-support",
+      "modelProjection": "SupportE"
+    }
+  ]
+}

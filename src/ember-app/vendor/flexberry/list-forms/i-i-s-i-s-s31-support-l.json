@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-s-s31-support-e",
+  "editForm": "i-i-s-i-s-s31-support-e",
+  "external": false,
+  "caption": "Support",
+  "name": "IISISS31SupportL",
+  "className": "SupportL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s31-support",
+      "modelProjection": "SupportL"
+    }
+  ]
+}

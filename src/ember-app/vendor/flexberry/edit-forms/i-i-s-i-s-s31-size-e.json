@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Size",
+  "name": "IISISS31SizeE",
+  "className": "SizeE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s31-size",
+      "modelProjection": "SizeE"
+    }
+  ]
+}
