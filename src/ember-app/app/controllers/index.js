@@ -22,25 +22,25 @@ export default Controller.extend({
             link: 'i-i-s-i-s-s31-support-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-support-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-support-l.title'),
-            icon: 'table',
+            icon: 'briefcase',
             children: null
           }, {
             link: 'i-i-s-i-s-s31-size-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-size-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-size-l.title'),
-            icon: 'table',
+            icon: 'archive',
             children: null
           }, {
             link: 'i-i-s-i-s-s31-investment-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-investment-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-investment-l.title'),
-            icon: 'file',
+            icon: 'chart line',
             children: null
           }, {
             link: 'i-i-s-i-s-s31-form-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-form-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-form-l.title'),
-            icon: 'tasks',
+            icon: 'book',
             children: null
           }]
         }
