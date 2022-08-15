@@ -22,13 +22,13 @@ export default Controller.extend({
             link: 'i-i-s-i-s-s31-support-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-support-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-support-l.title'),
-            icon: 'briefcase',
+            icon: 'edit',
             children: null
           }, {
             link: 'i-i-s-i-s-s31-size-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-size-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-size-l.title'),
-            icon: 'archive',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-i-s-s31-investment-l',
@@ -40,7 +40,7 @@ export default Controller.extend({
             link: 'i-i-s-i-s-s31-form-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-form-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-form-l.title'),
-            icon: 'book',
+            icon: 'archive',
             children: null
           }]
         }
