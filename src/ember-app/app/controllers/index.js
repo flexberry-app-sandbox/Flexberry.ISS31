@@ -22,25 +22,24 @@ export default Controller.extend({
             link: 'i-i-s-i-s-s31-support-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-support-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-support-l.title'),
-            icon: 'edit',
+            icon: 'tags',
             children: null
           }, {
             link: 'i-i-s-i-s-s31-size-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-size-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-size-l.title'),
-            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-i-s-s31-investment-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-investment-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-investment-l.title'),
-            icon: 'chart line',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-i-s-s31-form-l',
             caption: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-form-l.caption'),
             title: i18n.t('forms.application.sitemap.i-s-s31.i-i-s-i-s-s31-form-l.title'),
-            icon: 'archive',
+            icon: 'table',
             children: null
           }]
         }
